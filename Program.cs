@@ -8,6 +8,9 @@ namespace Class_2
         static void Main(string[] args)
         {
             Console.WriteLine("Hola a todos!");
+
+            // Hours of changes
+            
         }
     }
 }
