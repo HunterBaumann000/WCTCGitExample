@@ -1,0 +1,16 @@
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 2\bin\Debug\net5.0\Class 2.exe
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 2\bin\Debug\net5.0\Class 2.deps.json
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 2\bin\Debug\net5.0\Class 2.runtimeconfig.json
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 2\bin\Debug\net5.0\Class 2.runtimeconfig.dev.json
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 2\bin\Debug\net5.0\Class 2.dll
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 2\bin\Debug\net5.0\ref\Class 2.dll
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 2\bin\Debug\net5.0\Class 2.pdb
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 2\obj\Debug\net5.0\Class 2.csprojAssemblyReference.cache
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 2\obj\Debug\net5.0\Class 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 2\obj\Debug\net5.0\Class 2.AssemblyInfoInputs.cache
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 2\obj\Debug\net5.0\Class 2.AssemblyInfo.cs
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 2\obj\Debug\net5.0\Class 2.csproj.CoreCompileInputs.cache
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 2\obj\Debug\net5.0\Class 2.dll
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 2\obj\Debug\net5.0\ref\Class 2.dll
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 2\obj\Debug\net5.0\Class 2.pdb
+D:\WCTC\Net Database Programming 156-101-22097-21\Class 2\obj\Debug\net5.0\Class 2.genruntimeconfig.cache
